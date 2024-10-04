@@ -1,8 +1,8 @@
-# FaceRecognition
+# Facial Emotion Detector
 
 ## Overview
 
-The **FaceRecognition** project is a Python application designed to recognize facial emotions from images using machine learning techniques. It uses Singular Value Decomposition (SVD) to train on a dataset of faces. The project also includes real-time face recognition using a webcam.
+The **Facial Emotion Detector** project is a Python application designed to recognize facial emotions from images using machine learning techniques. It uses Singular Value Decomposition (SVD) to train on a dataset of faces. The project also includes real-time face recognition using a webcam.
 
 ## Features
 
@@ -16,13 +16,13 @@ The **FaceRecognition** project is a Python application designed to recognize fa
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/FaceRecognition
+git clone https://github.com/AdithyaVarma28/Facial-Emotion-Detector
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd FaceRecognition
+cd Facial-Emotion-Detector
 ```
 
 ### Create a Virtual Environment (optional but recommended)
@@ -102,7 +102,7 @@ python EmotionDetector.py
 
 For further reading, you can refer to the foundational paper that inspired this project: [Eigenfaces for Recognition](https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf).
 
-You can also refer to my previous Project: [Face Recognition using eigen faces](https://github.com/AdithyaVarma28/Face-recognition-using-eigenfaces/tree/main).
+You can also refer to my previous Project: [Face Recognition using eigen faces](https://github.com/AdithyaVarma28/Face-recognition-using-eigenfaces).
 
 ## Directory Structure
 
